@@ -30,7 +30,9 @@
 </div>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgesteves)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dgesteves&theme=aura"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
