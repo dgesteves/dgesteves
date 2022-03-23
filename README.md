@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Diogo Esteves, Full Stack software engineer who believes that software must be simple, intuitive and reliable.
+
+<div>
+<a href="https://github.com/dgesteves"/>
+<img height="180em" src=""/>
+<img height="180em" src=""/>
+</div>
 
 <!--
 **dgesteves/dgesteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
