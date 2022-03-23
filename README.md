@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Diogo Esteves, Full Stack software engineer who believes that software must be simple, intuitive and reliable.
 
 <div>
-<!--<a href="https://github.com/dgesteves"/>-->
+<a href="https://www.linkedin.com/feed/"/>
 <img height="180em" src=""/>
 <img height="180em" src=""/>
 </div>
