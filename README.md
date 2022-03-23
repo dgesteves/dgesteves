@@ -17,7 +17,9 @@
   <img alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="right" alt="Diogo-pic" style="border-radius:25px;" src="https://i.ibb.co/s5wQQzw/Vw3-Dj2-Y2-ATXm-gj-Ao3-IOKdqq5-ZEFAci0nm-Ml-Id-KG.jpg">
 </div>
-<br>
+
+##
+
 <div> 
   <a href="https://www.linkedin.com/in/diogo-esteves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:diogo.esteves.goncalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -28,7 +30,7 @@
 </div>
 <br>
 
-![Snake animation](https://github.com/dgesteves/dgesteves/blob/output/github-contribution-grid-snake.svg)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgesteves)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
