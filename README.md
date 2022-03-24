@@ -42,4 +42,4 @@
 
 ##
   
-   ![Snake animation](https://github.com/dgesteves)
+   ![Snake animation](https://github.com/dgesteves/dgesteves/blob/output/github-contribution-grid-snake.svg)
