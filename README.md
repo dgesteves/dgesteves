@@ -1,4 +1,4 @@
-### Hi there 👋, I am Diogo Esteves, Full Stack software engineer who believes that software must be simple, intuitive and reliable.
+### Hi there 👋, I am Diogo Esteves, Full Stack software developer who believes that software must be simple, intuitive and reliable.
 
 <br>
 <div>
