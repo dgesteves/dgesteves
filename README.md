@@ -38,7 +38,7 @@
 <br>
 
 <div>
-<img height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=dgesteves&theme=aura"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=dgesteves&theme=aura"/>
 </div>
   
    ![Snake animation](https://github.com/dgesteves/dgesteves/blob/output/github-contribution-grid-snake.svg)
