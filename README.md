@@ -36,9 +36,5 @@
   <a href="https://www.instagram.com/diogo.esteves.goncalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>         
 </div>
 <br>
-
-<div>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=dgesteves&theme=aura"/>
-</div>
   
    ![Snake animation](https://github.com/dgesteves/dgesteves/blob/output/github-contribution-grid-snake.svg)
