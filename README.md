@@ -21,7 +21,6 @@
 <img alt="Diogo-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img alt="Diogo-PostgresQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   <img alt="Diogo-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img alt="Diogo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
             <img alt="Diogo-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="right" alt="Diogo-pic" style="border-radius:25px;" src="https://i.ibb.co/s5wQQzw/Vw3-Dj2-Y2-ATXm-gj-Ao3-IOKdqq5-ZEFAci0nm-Ml-Id-KG.jpg">
 </div>
