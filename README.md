@@ -1,7 +1,10 @@
 ### Hi there 👋, I am Diogo Esteves
-I am a Full Stack software engineer who believes that software must be simple, intuitive and reliable.
 
-<a href="https://app.daily.dev/dgesteves"><img src="https://api.daily.dev/devcards/4a60db47510746d7a1a87b98f9c1695f.png?r=hq7" width="400" alt="Diogo Esteves's Dev Card"/></a>
+<div>
+I am a Full Stack software engineer who believes that software must be simple, intuitive and reliable.
+<a href="https://app.daily.dev/dgesteves"><img src="https://api.daily.dev/devcards/4a60db47510746d7a1a87b98f9c1695f.png?r=hq7" align="right" width="300" alt="Diogo Esteves's Dev Card"/></a>
+  I am a Full Stack software engineer who believes that software must be simple, intuitive and reliable.
+  </div>
 
 <br>
 <div>
