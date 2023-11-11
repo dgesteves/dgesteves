@@ -1,13 +1,16 @@
 ### Hi there 👋, I am Diogo Esteves
 
-<div>
-I am a Full Stack software engineer who believes that software must be simple, intuitive and reliable.
-<a href="https://app.daily.dev/dgesteves"><img src="https://api.daily.dev/devcards/4a60db47510746d7a1a87b98f9c1695f.png?r=hq7" align="right" width="300" alt="Diogo Esteves's Dev Card"/></a>
-  I am a Full Stack software engineer who believes that software must be simple, intuitive and reliable.
-  </div>
+ I'm a Lead Frontend Software Developer with 8+ years of experience and a passion for creating simple, intuitive, and reliable software that meets the needs of end-users. I believe that staying up-to-date with the latest technologies is crucial in this fast-paced industry, which is why I'm always looking for opportunities to learn and grow.
+
+My expertise includes programming languages like JavaScript, TypeScript, and Go; frameworks and tools such as Node.js, React, and AWS; and databases like PostgreSQL and MongoDB. I'm also skilled in testing frameworks like Jest and Cypress, as well as containerization tools like Docker.
+
+As the saying goes, 'Tell me and I forget, teach me and I may remember, involve me and I learn.' This philosophy has guided my approach to software development, and I'm always looking for opportunities to collaborate with others and learn from their expertise.
+  
+##
 
 <br>
 <div>
+  <a href="https://app.daily.dev/dgesteves"><img src="https://api.daily.dev/devcards/4a60db47510746d7a1a87b98f9c1695f.png?r=hq7" align="right" width="300" alt="Diogo Esteves's Dev Card"/></a>
   <a href="https://www.linkedin.com/in/diogo-esteves/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgesteves&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgesteves&layout=compact&langs_count=8&theme=aura"/>
@@ -30,15 +33,14 @@ I am a Full Stack software engineer who believes that software must be simple, i
             <img alt="Diogo-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
             <img alt="Diogo-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
             <img alt="Diogo-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+          
+          
 </div>
 
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/diogo-esteves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:diogo.esteves.goncalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/EstevesDi0g0" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="to-be-defined" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/diogo.esteves.goncalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>         
+  <a href="https://www.linkedin.com/in/diogo-esteves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
 </div>
 <br>
