@@ -10,11 +10,12 @@ As the saying goes, 'Tell me and I forget, teach me and I may remember, involve 
 
 <br>
 <div>
-  <a href="https://app.daily.dev/dgesteves"><img src="https://api.daily.dev/devcards/4a60db47510746d7a1a87b98f9c1695f.png?r=hq7" align="right" width="300" alt="Diogo Esteves's Dev Card"/></a>
+  <a href="https://app.daily.dev/dgesteves"><img src="https://api.daily.dev/devcards/4a60db47510746d7a1a87b98f9c1695f.png?r=hq7" align="right" height="400" alt="Diogo Esteves's Dev Card"/></a>
   <a href="https://www.linkedin.com/in/diogo-esteves/">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=dgesteves&show_icons=true&theme=aura&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgesteves&layout=donut-verticalt&langs_count=8&theme=aura"/>
-</div align="center">
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=dgesteves&show_icons=true&theme=aura&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
+  <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgesteves&layout=donut-vertical&langs_count=8&theme=aura"/>
+  </a>
+</div>
 <br>
 <div>
   <img alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
