@@ -27,7 +27,8 @@ As the saying goes, 'Tell me and I forget, teach me and I may remember, involve 
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
- <img height="30" width="40" src="https://github.com/dgesteves/dgesteves/assets/34245953/12212b5b-d1b1-4128-ae93-a109ce70e94d" />
+ <img height="30" width="40" src="https://github.com/dgesteves/dgesteves/assets/34245953/a9a68179-8c0e-4a2e-a695-6dd0e4ad4882" />
+
   <img alt="Diogo-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
