@@ -6,6 +6,8 @@
 </p>
 
 <p align="center">
+  <a href="https://diogo-studio.vercel.app/">Diogo Studio · WIP</a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/diogo-esteves/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:diogo.esteves.goncalves@gmail.com">Email</a>
@@ -92,6 +94,8 @@ Staff+, Principal, or Founding Engineer roles at AI-native product companies. VP
 If you're building something where the frontend is the product and AI is a first-class part of the experience, reach out.
 
 <p align="left">
+  <a href="https://diogo-studio.vercel.app/">Diogo Studio · WIP</a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/diogo-esteves/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:diogo.esteves.goncalves@gmail.com">diogo.esteves.goncalves@gmail.com</a>
