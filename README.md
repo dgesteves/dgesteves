@@ -16,7 +16,17 @@ Frontend and platform engineer, 11+ years in. I've led frontend architecture for
 
 - **[Fueled](https://fueled.com)**: Staff / Principal Frontend Engineer, leading frontend architecture for enterprise web.
 - **[GrowthLnk](https://www.growthlnk.com)**: Founder. Building an AI-powered co-founder that helps startups build, grow, and fund in one place.
-- **Open source**: AI developer tooling, built in public. First releases land here soon.
+- **Open source**: AI developer tooling, built in public. Three projects below.
+
+### Open source
+
+<a href="https://github.com/dgesteves/agent-ui-kit"><img src="assets/project-agent-ui-kit.webp" width="100%" alt="agent-ui-kit: accessible React components for agent runs: tool timelines, human-in-the-loop approvals, per-hunk diff review and run telemetry. React 19, AI SDK v7, shadcn registry, WCAG AA."></a>
+
+<a href="https://github.com/dgesteves/ask-my-site"><img src="assets/project-ask-my-site.webp" width="100%" alt="ask-my-site: a drop-in ask box for any website with a build-time index, in-memory hybrid search and streaming answers with citations. No vector database."></a>
+
+<a href="https://github.com/dgesteves/design-system-mcp"><img src="assets/project-design-system-mcp.webp" width="100%" alt="design-system-mcp: gives coding agents ground truth about your React design system, plus a linter they run on their own UI."></a>
+
+Live demos: [agent-ui-kit playground](https://agent-ui-kit-demo.vercel.app) · [ask-my-site docs assistant](https://ask-my-site-demo.vercel.app)
 
 ### Featured
 
@@ -43,7 +53,7 @@ Crowd and Open Innovation platforms feeding BMW's future-mobility and connected-
 
 ### Stack
 
-<img src="assets/stack.svg" width="100%" alt="Frontend: TypeScript, React, Next.js, Angular, RxJS, Redux, Tailwind CSS, Three.js, Web Components. AI: AI SDK, OpenAI, RAG and vector search, agentic UX, LLM evals. Platform: Node.js, NestJS, GraphQL, Nx, Turborepo, Vercel, AWS, Docker, GitHub Actions. Quality: Vitest, Jest, Playwright, Cypress, Storybook, Sentry, WCAG.">
+<img src="assets/stack.svg" width="100%" alt="Frontend: TypeScript, React, Next.js, Angular, RxJS, Redux, Tailwind CSS, Three.js, Web Components. AI: AI SDK, OpenAI, RAG and vector search, MCP, agentic UX, LLM evals. Platform: Node.js, NestJS, GraphQL, Nx, Turborepo, Vercel, AWS, Docker, GitHub Actions. Quality: Vitest, Jest, Playwright, Cypress, Storybook, Sentry, WCAG.">
 
 ### Activity
 
