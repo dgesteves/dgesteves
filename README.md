@@ -1,102 +1,62 @@
-<h1 align="center">Diogo Esteves</h1>
-
-<p align="center">
-  <strong>Staff / Principal Frontend &amp; Platform Engineer</strong><br>
-  AI-native systems &nbsp;·&nbsp; Enterprise UI infrastructure &nbsp;·&nbsp; Scalable web architectures
+<p>
+<a href="https://diogo-studio.com">
+  <img src="assets/header.svg" width="100%" alt="Diogo Esteves. Staff / Principal Frontend &amp; Platform Engineer. I build the engineering systems behind ambitious products.">
+</a>
 </p>
 
-<p align="center">
-  <a href="https://diogo-studio.vercel.app/">Diogo Studio · WIP</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/diogo-esteves/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:diogo.esteves.goncalves@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  Lisbon, Portugal
-  &nbsp;·&nbsp;
-  Remote, US-aligned hours
+<p>
+  <a href="https://diogo-studio.com"><img src="assets/btn-site.svg" height="40" alt="diogo-studio.com"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/diogo-esteves/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:diogo.esteves.goncalves@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
 </p>
 
----
+Frontend and platform engineer, 11+ years in. I've led frontend architecture for AI-native products, built a design system adopted across Fortune 1000 governance software, and shipped streaming UI to millions of Peacock subscribers. I'm equally at home as a Staff IC inside a large org or leading engineering at an AI startup. Lisbon-based, remote on US-aligned hours.
 
-## About
+### Now
 
-I build the engineering systems behind ambitious products.
+- **[Fueled](https://fueled.com)**: Staff / Principal Frontend Engineer, leading frontend architecture for enterprise web.
+- **[GrowthLnk](https://www.growthlnk.com)**: Founder. Building an AI-powered co-founder that helps startups build, grow, and fund in one place.
+- **Open source**: AI developer tooling, built in public. First releases land here soon.
 
-For 11+ years I've been the senior engineering voice on platforms used by millions. Streaming experiences at Sky and Peacock. Enterprise governance software at Diligent. Innovation systems at BMW Group. AI-native products at eino.ai, Moment, and Fueled.
+### Featured
 
-The pattern across all of it is the same. Design systems that survive multiple product lines. Monorepos that keep ten teams unblocked. AI workflows that hold up in production rather than impressing only in demos. Hiring, leveling, and architectural calls when companies need that altitude.
+<a href="https://diogo-studio.com">
+  <img src="assets/studio.webp" width="100%" alt="diogo-studio: my portfolio as an explorable 3D studio, with an AI agent that answers questions about my work. Built with Next.js 16, React 19, React Three Fiber and the AI SDK.">
+</a>
 
-I work equally well as a Staff IC inside a large engineering org and as a founding engineer or VP of Engineering inside a fast-moving AI startup. I've done both inside the last eighteen months.
+### Track record
 
----
+**eino.ai** · *Lead Frontend Engineer*<br>
+Agentic digital-twin platform for designing 5G, Wi-Fi and private-wireless networks. Map-based twins, real-time RF heatmaps and agent orchestration turn days of proposal work into seconds.
 
-## Currently
+**Moment** · *VP of Engineering*<br>
+Technical vision, architecture, hiring bar and leveling for an AI-first knowledge-intelligence platform.
 
-- Leading frontend architecture for enterprise web at **Fueled**, an agency whose client roster includes Google, Apple, the BBC, the United Nations, MGM, Verizon, and Warner Music.
-- Exploring agentic UX patterns, design-system platforms, and the operating model of small, high-trust engineering organizations.
-- Writing about frontend infrastructure, AI-native product engineering, and engineering leadership.
+**Diligent** · *Lead Frontend Engineer*<br>
+Company-wide design system spanning React and Angular, adopted by GRC products used across a large share of the Fortune 1000.
 
----
+**Sky · Peacock (NBCUniversal)** · *Senior Software Engineer*<br>
+React and Redux at multi-million-user streaming scale. Performance, reliability and release safety on surfaces where regressions show up in minutes.
 
-## Selected Work
+**BMW Group** · *Lead Frontend Engineer*<br>
+Crowd and Open Innovation platforms feeding BMW's future-mobility and connected-vehicle R&amp;D.
 
-**`eino.ai`** &nbsp;·&nbsp; *Lead Frontend Engineer*
-Frontend architecture for an agentic, digital-twin platform RF engineers use to design 5G, Wi-Fi, and private-wireless networks across warehouses, campuses, and industrial sites. Map-based digital-twin visualization, real-time RF heatmaps, agent orchestration, and proposals generated in seconds instead of days.
+### Stack
 
-**`Moment`** &nbsp;·&nbsp; *VP of Engineering*
-Set the technical vision and built the engineering organization for an AI-first platform for organizational knowledge intelligence, automation, and programmable collaboration. Architecture, hiring bar, leveling, and operating model.
+<img src="assets/stack.svg" width="100%" alt="Frontend: TypeScript, React, Next.js, Angular, RxJS, Redux, Tailwind CSS, Three.js, Web Components. AI: AI SDK, OpenAI, RAG and vector search, agentic UX, LLM evals. Platform: Node.js, NestJS, GraphQL, Nx, Turborepo, Vercel, AWS, Docker, GitHub Actions. Quality: Vitest, Jest, Playwright, Cypress, Storybook, Sentry, WCAG.">
 
-**`Diligent`** &nbsp;·&nbsp; *Lead Frontend Engineer*
-Architected the company-wide enterprise design system, spanning both React and Angular, adopted across multiple GRC product lines used by directors and executives at thousands of public companies and a large share of the Fortune 1000.
+### Activity
 
-**`Sky / Peacock (NBCUniversal)`** &nbsp;·&nbsp; *Senior Software Engineer*
-React and Redux at multi-million-user streaming scale inside NBCUniversal's flagship streaming service. Performance, reliability, and release safety on surfaces where regressions are visible in minutes.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgesteves/dgesteves/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dgesteves/dgesteves/output/snake-light.svg">
+  <img width="100%" alt="Contribution graph from the last year, animated" src="https://raw.githubusercontent.com/dgesteves/dgesteves/output/snake-light.svg">
+</picture>
 
-**`BMW Group`** &nbsp;·&nbsp; *Lead Frontend Engineer*
-Frontend lead on the Crowd Innovation and Open Innovation platforms used to source, evaluate, and manage strategic R&D ideas across the BMW Group, feeding future-mobility, sustainability, and connected-vehicle programs.
+### Beyond code
 
----
-
-## Stack
-
-**Languages.** TypeScript, JavaScript, HTML5, CSS3.
-**Frontend.** React, Next.js, Angular, RxJS, Redux, Zustand, React Query, TailwindCSS, Styled Components, Web Components.
-**Backend.** Node.js, Nest.js, Express.js, GraphQL (Apollo, urql), REST, BFF patterns.
-**AI &amp; Modern Tooling.** OpenAI APIs, RAG pipelines, vector search, prompt engineering, agentic workflow UX, evaluation tooling.
-**Architecture.** Monorepos (Nx, Turborepo), micro frontends, design-system platforms, component-driven development, SSR / ISR / edge.
-**Infra.** AWS, Vercel, Docker, GitHub Actions, Jenkins, CI/CD pipelines, observability.
-**Testing.** Jest, React Testing Library, Cypress, Playwright, integration and visual-regression testing.
-**Practices.** Trunk-based delivery, RFC-driven decisions, performance budgets, accessibility (WCAG).
+Founder of **WebDevPortugal**, a community for web engineers across Portugal (2019 to today). Co-founder of **Northern Grade E-Sports**, which helped young Portuguese players compete internationally. Member of GDG Lisbon.
 
 ---
 
-## How I Work
-
-- **Frontend as a product**, not a thin layer over an API.
-- **AI as a first-class surface**, not a sidebar.
-- **Architectural taste, hiring leverage, and execution speed compound.** I optimize for the long-running version of all three.
-- **Async-first, written-first, opinionated**, with strong cross-functional partnership with product, design, and executives.
-
----
-
-## Communities
-
-- **Founder, WebDevPortugal.** A community connecting web engineers and technology professionals across Portugal.
-- **President &amp; Co-Founder, Northern Grade E-Sports.** Initiatives helping young Portuguese players reach international competitive gaming.
-
----
-
-## Open to
-
-Staff+, Principal, or Founding Engineer roles at AI-native product companies. VP or Head of Engineering mandates inside seed to Series B AI startups. Remote-first engineering organizations in the OpenAI, Anthropic, Vercel, Linear, Ramp, and Stripe class.
-
-If you're building something where the frontend is the product and AI is a first-class part of the experience, reach out.
-
-<p align="left">
-  <a href="https://diogo-studio.vercel.app/">Diogo Studio · WIP</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/diogo-esteves/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:diogo.esteves.goncalves@gmail.com">diogo.esteves.goncalves@gmail.com</a>
-</p>
+**Open to** Staff+, Principal and Founding Engineer roles at AI-native product companies, and Head / VP of Engineering at seed to Series B AI startups. Say hi at [diogo.esteves.goncalves@gmail.com](mailto:diogo.esteves.goncalves@gmail.com).
