@@ -14,7 +14,7 @@ Frontend and platform engineer, 11+ years in. I've led frontend architecture for
 
 ### Now
 
-- **[Fueled](https://fueled.com)**: Staff / Principal Frontend Engineer, leading frontend architecture for enterprise web.
+- **[Fueled](https://fueled.com)**: Lead Engineer, Web Applications. Leading frontend architecture for enterprise web.
 - **Open source**: AI developer tooling, built in public. Three projects below.
 
 ### Open source
