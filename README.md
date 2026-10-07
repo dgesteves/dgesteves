@@ -15,7 +15,6 @@ Frontend and platform engineer, 11+ years in. I've led frontend architecture for
 ### Now
 
 - **[Fueled](https://fueled.com)**: Staff / Principal Frontend Engineer, leading frontend architecture for enterprise web.
-- **[GrowthLnk](https://www.growthlnk.com)**: Founder. Building an AI-powered co-founder that helps startups build, grow, and fund in one place.
 - **Open source**: AI developer tooling, built in public. Three projects below.
 
 ### Open source
@@ -35,6 +34,9 @@ Live demos: [agent-ui-kit playground](https://agent-ui-kit-demo.vercel.app) · [
 </a>
 
 ### Track record
+
+**GrowthLnk** · *Founder*<br>
+AI-powered co-founder for early-stage startups: one place to build, grow and raise funding.
 
 **eino.ai** · *Lead Frontend Engineer*<br>
 Agentic digital-twin platform for designing 5G, Wi-Fi and private-wireless networks. Map-based twins, real-time RF heatmaps and agent orchestration turn days of proposal work into seconds.
