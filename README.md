@@ -10,7 +10,7 @@
   <a href="mailto:diogo.esteves.goncalves@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
 </p>
 
-Full-stack engineer, 11+ years in, focused on AI. I build AI products end to end: agents and retrieval, the APIs and data behind them, and the interfaces people use. I've run engineering as VP at an AI-first startup, built a design system adopted across Fortune 1000 governance software, and shipped streaming UI to millions of Peacock subscribers. I'm equally at home as a Staff IC inside a large org or leading engineering at an AI startup. Lisbon-based, remote on US-aligned hours.
+Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end: agents and retrieval, the APIs and data behind them, and the interfaces people use. I've run engineering as VP at an AI-first startup, built a design system adopted across Fortune 1000 governance software, and shipped streaming UI to millions of Peacock subscribers. I'm equally at home as a Staff IC inside a large org or leading engineering at an AI startup. Lisbon-based, remote on US-aligned hours.
 
 ### Now
 
