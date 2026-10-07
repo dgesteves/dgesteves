@@ -35,9 +35,6 @@ Live demos: [agent-ui-kit playground](https://agent-ui-kit-demo.vercel.app) · [
 
 ### Track record
 
-**GrowthLnk** · *Founder*<br>
-AI-powered co-founder for early-stage startups: one place to build, grow and raise funding.
-
 **eino.ai** · *Lead Frontend Engineer*<br>
 Agentic digital-twin platform for designing 5G, Wi-Fi and private-wireless networks. Map-based twins, real-time RF heatmaps and agent orchestration turn days of proposal work into seconds.
 
@@ -67,7 +64,7 @@ Crowd and Open Innovation platforms feeding BMW's future-mobility and connected-
 
 ### Beyond code
 
-Founder of **WebDevPortugal**, a community for web engineers across Portugal (2019 to today). Co-founder of **Northern Grade E-Sports**, which helped young Portuguese players compete internationally. Member of GDG Lisbon.
+Founded **GrowthLnk** (2025–26), an AI co-founder for early-stage startups, and **WebDevPortugal**, a community for web engineers across Portugal (2019 to today). Co-founder of **Northern Grade E-Sports**, which helped young Portuguese players compete internationally. Member of GDG Lisbon.
 
 ---
 
