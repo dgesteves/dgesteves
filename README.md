@@ -19,11 +19,11 @@ Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end
 
 ### Open source
 
-<a href="https://github.com/dgesteves/agent-ui-kit"><img src="assets/project-agent-ui-kit.webp" width="100%" alt="agent-ui-kit: accessible React components for agent runs: tool timelines, human-in-the-loop approvals, per-hunk diff review and run telemetry. React 19, AI SDK v7, shadcn registry, WCAG AA."></a>
+<a href="https://github.com/dgesteves/agent-ui-kit"><img src="assets/project-agent-ui-kit.webp" width="100%" alt="agent-ui-kit: accessible React components for agent runs: tool timelines, human-in-the-loop approvals, per-hunk diff review and run telemetry. React 19, AI SDK 6 &amp; 7, shadcn registry, WCAG AA."></a>
 
 <a href="https://github.com/dgesteves/ask-my-site"><img src="assets/project-ask-my-site.webp" width="100%" alt="ask-my-site: a drop-in ask box for any website with a build-time index, in-memory hybrid search and streaming answers with citations. No vector database."></a>
 
-<a href="https://github.com/dgesteves/design-system-mcp"><img src="assets/project-design-system-mcp.webp" width="100%" alt="design-system-mcp: gives coding agents ground truth about your React design system, plus a linter they run on their own UI."></a>
+<a href="https://github.com/dgesteves/design-system-mcp"><img src="assets/project-design-system-mcp.webp" width="100%" alt="design-system-mcp: gives coding agents ground truth about your React design system, plus a linter they run on their own UI. MCP, Claude Code plugin, shadcn/ui, Tailwind v4."></a>
 
 Live demos: [agent-ui-kit playground](https://agent-ui-kit-demo.vercel.app) · [ask-my-site docs assistant](https://ask-my-site-demo.vercel.app)
 
