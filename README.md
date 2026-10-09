@@ -19,7 +19,7 @@ Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end
 
 ### Open source
 
-https://github.com/user-attachments/assets/49c64496-2da6-450f-b135-27f65d9ccbfe
+https://github.com/user-attachments/assets/3fc365ea-9f0b-4106-9410-71748c6e5360
 
 <a href="https://github.com/dgesteves/agent-ui-kit"><img src="assets/project-agent-ui-kit.webp" width="100%" alt="agent-ui-kit: accessible React components for agent runs: tool timelines, human-in-the-loop approvals, per-hunk diff review and run telemetry. AI SDK 6 &amp; 7, AG-UI, shadcn registry, WCAG AA."></a>
 
