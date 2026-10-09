@@ -19,6 +19,8 @@ Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end
 
 ### Open source
 
+https://github.com/user-attachments/assets/49c64496-2da6-450f-b135-27f65d9ccbfe
+
 <a href="https://github.com/dgesteves/agent-ui-kit"><img src="assets/project-agent-ui-kit.webp" width="100%" alt="agent-ui-kit: accessible React components for agent runs: tool timelines, human-in-the-loop approvals, per-hunk diff review and run telemetry. AI SDK 6 &amp; 7, AG-UI, shadcn registry, WCAG AA."></a>
 
 <a href="https://github.com/dgesteves/ask-my-site"><img src="assets/project-ask-my-site.webp" width="100%" alt="ask-my-site: self-hosted Ask AI for docs sites, with a build-time index, in-memory hybrid search and streaming answers with citations. No vector database. AI SDK 7, BM25 + vectors, Docusaurus and Starlight plugins."></a>
