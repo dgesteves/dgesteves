@@ -21,13 +21,13 @@ Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end
 
 https://github.com/user-attachments/assets/3fc365ea-9f0b-4106-9410-71748c6e5360
 
-<a href="https://github.com/dgesteves/agent-ui-kit"><img src="assets/project-agent-ui-kit.webp" width="100%" alt="agent-ui-kit: accessible React components for agent runs: tool timelines, human-in-the-loop approvals, per-hunk diff review and run telemetry. AI SDK 6 &amp; 7, AG-UI, shadcn registry, WCAG AA."></a>
+<a href="https://github.com/dgesteves/onsystem"><img src="assets/project-onsystem.webp" width="100%" alt="onsystem: keeps coding agents on your design system. It knows your real components, props and tokens and catches what an agent invents; 4% false positives on 10 public repos. Claude Code plugin, MCP, CI check, shadcn/ui."></a>
 
-<a href="https://github.com/dgesteves/ask-my-site"><img src="assets/project-ask-my-site.webp" width="100%" alt="ask-my-site: self-hosted Ask AI for docs sites, with a build-time index, in-memory hybrid search and streaming answers with citations. No vector database. AI SDK 7, BM25 + vectors, Docusaurus and Starlight plugins."></a>
+<a href="https://github.com/dgesteves/ondocs"><img src="assets/project-ondocs.webp" width="100%" alt="ondocs: makes your docs answerable by people and agents from one static index: a cited Ask box, an MCP server and llms.txt. No vector database, no vendor. Docusaurus, Starlight, MCP, llms.txt."></a>
 
-<a href="https://github.com/dgesteves/design-system-mcp"><img src="assets/project-design-system-mcp.webp" width="100%" alt="design-system-mcp: gives coding agents ground truth about your React design system, plus a linter they run on their own UI. MCP, Claude Code plugin, shadcn/ui, Tailwind v4."></a>
+<a href="https://github.com/dgesteves/signoff-ui"><img src="assets/project-signoff-ui.webp" width="100%" alt="signoff-ui: review what your agent changed and approve what it may do. React components for multi-file diff review and tool approvals with rules. AI SDK 6 &amp; 7, AG-UI, shadcn registry, WCAG AA."></a>
 
-Websites, each with docs and a live demo: [agent-ui-kit](https://agent-ui-kit-demo.vercel.app) (a scripted agent run) · [ask-my-site](https://ask-my-site-demo.vercel.app) (ask the docs a question) · [design-system-mcp](https://design-system-mcp-demo.vercel.app) (a `check_ui` playground)
+Websites, each with docs and a live demo: [onsystem](https://onsystem.vercel.app) (a `check_ui` playground for your own code) · [ondocs](https://ondocs.vercel.app) (ask the docs, or connect an agent over MCP) · [signoff-ui](https://signoff-ui.vercel.app) (review and approve a scripted agent run)
 
 ### Featured
 
