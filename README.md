@@ -19,7 +19,7 @@ Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end
 
 ### Open source
 
-https://github.com/user-attachments/assets/3fc365ea-9f0b-4106-9410-71748c6e5360
+https://github.com/user-attachments/assets/dc1d4ede-0772-47b5-bb60-c79dad5882a7
 
 <a href="https://github.com/dgesteves/onsystem"><img src="assets/project-onsystem.webp" width="100%" alt="onsystem: keeps coding agents on your design system. It knows your real components, props and tokens and catches what an agent invents; 4% false positives on 10 public repos. Claude Code plugin, MCP, CI check, shadcn/ui."></a>
 
