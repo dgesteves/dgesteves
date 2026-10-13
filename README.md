@@ -19,6 +19,11 @@ Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end
 
 ### Open source
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-still.png">
+  <img src="assets/banner.webp" width="100%" alt="A short loop of the three tools on their live sites: onsystem's check_ui findings turning into fixes, ondocs answering a docs question with citations, and signoff-ui accepting a diff hunk.">
+</picture>
+
 https://github.com/user-attachments/assets/dc1d4ede-0772-47b5-bb60-c79dad5882a7
 
 <a href="https://github.com/dgesteves/onsystem"><img src="assets/project-onsystem.webp" width="100%" alt="onsystem: keeps coding agents on your design system. It knows your real components, props and tokens and catches what an agent invents; 4% false positives on 10 public repos. Claude Code plugin, MCP, CI check, shadcn/ui."></a>
