@@ -26,11 +26,11 @@ Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end
 
 https://github.com/user-attachments/assets/0eca8b07-3f2f-4eb1-9419-55a4a48e9b2a
 
-<a href="https://github.com/dgesteves/onsystem"><img src="assets/project-onsystem.webp" width="100%" alt="onsystem: keeps coding agents on your design system. It knows your real components, props and tokens and catches what an agent invents; 4% false positives on 10 public repos. Claude Code plugin, MCP, CI check, shadcn/ui."></a>
+<a href="https://github.com/dgesteves/onsystem"><img src="assets/project-onsystem.webp" width="100%" alt="onsystem: keeps coding agents on your design system. Catches palette colors, native elements and APIs your design system lacks in agent-written React, at every edit and pull request, with the fix. Claude Code plugin, MCP, CI check, shadcn/ui."></a>
 
-<a href="https://github.com/dgesteves/ondocs"><img src="assets/project-ondocs.webp" width="100%" alt="ondocs: makes your docs answerable by people and agents from one static index: a cited Ask box, an MCP server and llms.txt. No vector database, no vendor. Docusaurus, Starlight, MCP, llms.txt."></a>
+<a href="https://github.com/dgesteves/ondocs"><img src="assets/project-ondocs.webp" width="100%" alt="ondocs: open-source Ask AI for your docs. Cited answers on your own model key, and an MCP server for agents, from one index built with your site. No vector database. Starlight, Docusaurus, VitePress, MCP."></a>
 
-<a href="https://github.com/dgesteves/signoff-ui"><img src="assets/project-signoff-ui.webp" width="100%" alt="signoff-ui: review what your agent changed and approve what it may do. React components for multi-file diff review and tool approvals with rules. AI SDK 6 &amp; 7, AG-UI, shadcn registry, WCAG AA."></a>
+<a href="https://github.com/dgesteves/signoff-ui"><img src="assets/project-signoff-ui.webp" width="100%" alt="signoff-ui: review what your agent changed. Approve what it may do. React components for multi-file diff review and tool approvals, for AI SDK, AG-UI and ACP agents. AI SDK 6 &amp; 7, AG-UI, ACP, shadcn registry."></a>
 
 Websites, each with docs and a live demo: [onsystem](https://onsystem.vercel.app) (a `check_ui` playground for your own code) · [ondocs](https://ondocs.vercel.app) (ask the docs, or connect an agent over MCP) · [signoff-ui](https://signoff-ui.vercel.app) (review and approve a scripted agent run)
 
