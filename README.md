@@ -15,7 +15,7 @@ Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end
 ### Now
 
 - **[Fueled](https://fueled.com)**: Lead Engineer, Web Applications. Leading architecture for enterprise web applications.
-- **Open source**: AI developer tooling, built in public. Three projects below.
+- **Open source**: three tools for coding agents, launched on 22 October 2026 and built in public. [Launch write-up](https://dev.to/dgesteves/i-built-three-open-source-tools-for-coding-agents-onsystem-ondocs-and-signoff-ui-2ho7), with a demo of each. Details below.
 
 ### Open source
 
