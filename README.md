@@ -24,7 +24,7 @@ Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end
   <img src="assets/banner.webp" width="100%" alt="A short loop of the three tools on their live sites: onsystem's check_ui findings turning into fixes, ondocs answering a docs question with citations, and signoff-ui accepting a diff hunk.">
 </picture>
 
-https://github.com/user-attachments/assets/0eca8b07-3f2f-4eb1-9419-55a4a48e9b2a
+https://github.com/user-attachments/assets/232e46a3-92e9-4a3a-9814-1120334e35d8
 
 <a href="https://github.com/dgesteves/onsystem"><img src="assets/project-onsystem.webp" width="100%" alt="onsystem: keeps coding agents on your design system. Catches palette colors, native elements and APIs your design system lacks in agent-written React, at every edit and pull request, with the fix. Claude Code plugin, MCP, CI check, shadcn/ui."></a>
 
