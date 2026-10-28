@@ -10,7 +10,7 @@
   <a href="mailto:diogo.esteves.goncalves@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
 </p>
 
-Full-stack engineer, 10+ years in, focused on AI. I build AI products end to end: agents and retrieval, the APIs and data behind them, and the interfaces people use. I've run engineering as VP at an AI-first startup, built a design system adopted across Fortune 1000 governance software, and shipped streaming UI to millions of Peacock subscribers. I'm equally at home as a Staff IC inside a large org or leading engineering at an AI startup. Lisbon-based, remote on US-aligned hours.
+Full-stack product engineer, 10+ years in, AI-native in how I build. I take AI products from a customer problem to production: agents and retrieval, the APIs and data behind them, and the interfaces people use. Twice the first hire after the founders: founding engineer at eino.ai and VP of Engineering at Moment. Before that, a design system across Fortune 1000 governance software and streaming UI for millions of Peacock subscribers. I build with parallel coding agents every day, from written specs, and I own the quality of what they ship. Lisbon-based, EU time zone with US overlap.
 
 ### Now
 
@@ -42,11 +42,14 @@ Websites, each with docs and a live demo: [onsystem](https://onsystem.vercel.app
 
 ### Track record
 
-**eino.ai** · *Lead Frontend Engineer*<br>
-Agentic digital-twin platform for designing 5G, Wi-Fi and private-wireless networks. Map-based twins, real-time RF heatmaps and agent orchestration turn days of proposal work into seconds.
+**eino.ai** · *Founding Engineer*<br>
+First hire after the two co-founders. An agentic platform that turns plain-language requirements into 5G, Wi-Fi and private-wireless network designs in seconds instead of days. I worked across the agent logic, the APIs, AWS deployment and the React app with its digital twins and RF heatmaps. eino reports 5,000+ designs and 1,500+ production deployments.
 
 **Moment** · *VP of Engineering*<br>
-Technical vision, architecture, hiring bar and leveling for an AI-first knowledge-intelligence platform.
+First hire after the co-founders of a seed-stage AI startup. Ran technology and product, built the AI platform (ingestion, RAG, agentic workflows with human review) and grew engineering to 6–10.
+
+**Superglue** · *Lead Frontend Engineer*<br>
+Seed-stage partner-engagement SaaS. Owned the product end to end: the React app, Node.js APIs, the AI recommendation logic, CI and deployment.
 
 **Diligent** · *Lead Frontend Engineer*<br>
 Company-wide design system spanning React and Angular, adopted by GRC products used across a large share of the Fortune 1000.
