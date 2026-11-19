@@ -29,8 +29,6 @@ https://github.com/user-attachments/assets/232e46a3-92e9-4a3a-9814-1120334e35d8
 
 Websites, each with docs and a live demo: [onsystem](https://onsystem.vercel.app) · [ondocs](https://ondocs.vercel.app) · [signoff-ui](https://signoff-ui.vercel.app) · [sigil](https://sigil-lab.vercel.app) (early, not on npm yet)
 
-I've also had 4 pull requests merged in [Vike](https://github.com/vikejs/vike/pulls?q=is%3Apr+author%3Adgesteves+is%3Amerged), the Vite-based web framework.
-
 ### Portfolio
 
 <a href="https://diogo-studio.com">
