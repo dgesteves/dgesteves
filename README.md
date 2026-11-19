@@ -1,27 +1,20 @@
 <p>
-<a href="https://diogo-studio.com">
-  <img src="assets/header.svg" width="100%" alt="Diogo Esteves. Staff Full-Stack AI Engineer. I build AI-native products end to end, from backend to UI.">
-</a>
+  <img src="assets/header.svg" width="100%" alt="Diogo Esteves. Full-Stack AI Engineer. Full-stack engineer in Lisbon, working on AI products.">
 </p>
 
 <p>
-  <a href="https://diogo-studio.com"><img src="assets/btn-site.svg" height="40" alt="diogo-studio.com"></a>&nbsp;
   <a href="https://www.linkedin.com/in/diogo-esteves/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:diogo.esteves.goncalves@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
+  <a href="mailto:diogo.esteves.goncalves@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>&nbsp;
+  <a href="https://diogo-studio.com"><img src="assets/btn-site.svg" height="40" alt="diogo-studio.com (early alpha)"></a>
 </p>
 
-Full-stack product engineer, 10+ years in, AI-native in how I build. I take AI products from a customer problem to production: agents and retrieval, the APIs and data behind them, and the interfaces people use. Twice the first hire after the founders: founding engineer at eino.ai and VP of Engineering at Moment. Before that, a design system across Fortune 1000 governance software and streaming UI for millions of Peacock subscribers. I build with parallel coding agents every day, from written specs, and I own the quality of what they ship. Lisbon-based, EU time zone with US overlap.
-
-### Now
-
-- **[Fueled](https://fueled.com)**: Lead Engineer, Web Applications. Leading architecture for enterprise web applications.
-- **Open source**: three tools for coding agents, launched on 22 October 2026 and built in public. [Launch write-up](https://dev.to/dgesteves/i-built-three-open-source-tools-for-coding-agents-onsystem-ondocs-and-signoff-ui-2ho7), with a demo of each. Details below.
+I'm a full-stack engineer in Lisbon with 10+ years of experience, mostly with TypeScript, React and Node.js. Since 2023 I've worked on AI products: first hire after the founders at eino.ai, then VP of Engineering at Moment. Today I'm a Lead Engineer at [Fueled](https://fueled.com). In my own time I build open-source tools for teams that use coding agents.
 
 ### Open source
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-still.png">
-  <img src="assets/banner.webp" width="100%" alt="A short loop of the three tools on their live sites: onsystem's check_ui findings turning into fixes, ondocs answering a docs question with citations, and signoff-ui accepting a diff hunk.">
+  <img src="assets/banner.webp" width="100%" alt="A short loop of three of the tools on their live sites: onsystem's check_ui findings turning into fixes, ondocs answering a docs question with citations, and signoff-ui accepting a diff hunk.">
 </picture>
 
 https://github.com/user-attachments/assets/232e46a3-92e9-4a3a-9814-1120334e35d8
@@ -32,37 +25,34 @@ https://github.com/user-attachments/assets/232e46a3-92e9-4a3a-9814-1120334e35d8
 
 <a href="https://github.com/dgesteves/signoff-ui"><img src="assets/project-signoff-ui.webp" width="100%" alt="signoff-ui: review what your agent changed. Approve what it may do. React components for multi-file diff review and tool approvals, for AI SDK, AG-UI and ACP agents. AI SDK 6 &amp; 7, AG-UI, ACP, shadcn registry."></a>
 
-Websites, each with docs and a live demo: [onsystem](https://onsystem.vercel.app) (a `check_ui` playground for your own code) · [ondocs](https://ondocs.vercel.app) (ask the docs, or connect an agent over MCP) · [signoff-ui](https://signoff-ui.vercel.app) (review and approve a scripted agent run)
+<a href="https://github.com/dgesteves/sigil"><img src="assets/project-sigil.webp" width="100%" alt="sigil, in progress: tests whether an agent skill, rule, hook or MCP server actually helps, with A/B runs on hidden tests in a sandbox and a security scan, then one install for 22 coding agents."></a>
 
-### Featured
+Websites, each with docs and a live demo: [onsystem](https://onsystem.vercel.app) · [ondocs](https://ondocs.vercel.app) · [signoff-ui](https://signoff-ui.vercel.app) · [sigil](https://sigil-lab.vercel.app) (early, not on npm yet)
+
+### Portfolio
 
 <a href="https://diogo-studio.com">
-  <img src="assets/studio.webp" width="100%" alt="diogo-studio: my portfolio as an explorable 3D studio, with an AI agent that answers questions about my work. Built with Next.js 16, React 19, React Three Fiber and the AI SDK.">
+  <img src="assets/studio.webp" width="100%" alt="diogo-studio: my portfolio as a 3D studio. It is an early alpha, still being built, desktop only for now. Built with Next.js 16, React 19, React Three Fiber and the AI SDK.">
 </a>
 
-### Track record
+### Experience
 
-**eino.ai** · *Founding Engineer*<br>
-First hire after the two co-founders. An agentic platform that turns plain-language requirements into 5G, Wi-Fi and private-wireless network designs in seconds instead of days. I worked across the agent logic, the APIs, AWS deployment and the React app with its digital twins and RF heatmaps. eino reports 5,000+ designs and 1,500+ production deployments.
+| | | |
+|---|---|---|
+| **Fueled** | Lead Engineer, Web Applications | 2025 – now |
+| **Moment** | VP of Engineering | 2025 |
+| **eino.ai** | Founding Engineer | 2023 – 2025 |
+| **Superglue** | Lead Frontend Engineer | 2022 – 2023 |
+| **Sky** (Peacock) | Senior Software Engineer | 2020 – 2022 |
+| **Diligent** | Lead Frontend Engineer | 2019 – 2020 |
+| **BMW Group** | Lead Frontend Engineer | 2018 – 2019 |
+| **Deloitte** | Software Engineer | 2016 – 2018 |
 
-**Moment** · *VP of Engineering*<br>
-First hire after the co-founders of a seed-stage AI startup. Ran technology and product, built the AI platform (ingestion, RAG, agentic workflows with human review) and grew engineering to 6–10.
-
-**Superglue** · *Lead Frontend Engineer*<br>
-Seed-stage partner-engagement SaaS. Owned the product end to end: the React app, Node.js APIs, the AI recommendation logic, CI and deployment.
-
-**Diligent** · *Lead Frontend Engineer*<br>
-Company-wide design system spanning React and Angular, adopted by GRC products used across a large share of the Fortune 1000.
-
-**Sky · Peacock (NBCUniversal)** · *Senior Software Engineer*<br>
-React and Redux at multi-million-user streaming scale. Performance, reliability and release safety on surfaces where regressions show up in minutes.
-
-**BMW Group** · *Lead Frontend Engineer*<br>
-Crowd and Open Innovation platforms feeding BMW's future-mobility and connected-vehicle R&amp;D.
+More detail on [LinkedIn](https://www.linkedin.com/in/diogo-esteves/).
 
 ### Stack
 
-<img src="assets/stack.svg" width="100%" alt="AI: AI SDK, OpenAI, Anthropic, MCP, agents and tool calling, RAG and vector search, LLM evals. Backend: Node.js, NestJS, PostgreSQL, Redis, Python, FastAPI, GraphQL. Frontend: TypeScript, React, Next.js, Tailwind CSS, shadcn/ui, Angular, Three.js. Infra: AWS, Kubernetes, Terraform, Docker, Vercel, GitHub Actions, Turborepo. Quality: Vitest, Playwright, Storybook, OpenTelemetry, Sentry, WCAG.">
+<img src="assets/stack.svg" width="100%" alt="AI: Anthropic, OpenAI, AI SDK, MCP, LangGraph, agents and tool calling, RAG and vector search, LLM evals. Frontend: TypeScript, React, Next.js, Tailwind CSS, shadcn/ui, TanStack, Vite, Three.js. Backend: Node.js, Bun, Hono, NestJS, Fastify, GraphQL, Python, FastAPI. Data: PostgreSQL, pgvector, Drizzle, Kysely, Redis, Supabase, Firebase. Cloud: AWS, Google Cloud, Cloudflare, Vercel, Docker, Kubernetes, Terraform, GitHub Actions. Tooling: Vitest, Playwright, Biome, pnpm, Turborepo, OpenTelemetry, Sentry, Datadog.">
 
 ### Activity
 
@@ -72,10 +62,10 @@ Crowd and Open Innovation platforms feeding BMW's future-mobility and connected-
   <img width="100%" alt="Contribution graph from the last year, animated" src="https://raw.githubusercontent.com/dgesteves/dgesteves/output/snake-light.svg">
 </picture>
 
-### Beyond code
+### Elsewhere
 
-Founded **GrowthLnk** (2025–26), an AI co-founder for early-stage startups, and **WebDevPortugal**, a community for web engineers across Portugal (2019 to today). Co-founder of **Northern Grade E-Sports**, which helped young Portuguese players compete internationally. Member of GDG Lisbon.
+I started WebDevPortugal, a community for web engineers in Portugal, and I'm a member of GDG Lisbon.
 
 ---
 
-**Open to** Staff+, Principal and Founding Engineer roles (full-stack and AI) at AI-native product companies, and Head / VP of Engineering at seed to Series B AI startups. Say hi at [diogo.esteves.goncalves@gmail.com](mailto:diogo.esteves.goncalves@gmail.com).
+Open to full-stack and AI engineering roles. Email: [diogo.esteves.goncalves@gmail.com](mailto:diogo.esteves.goncalves@gmail.com)
