@@ -37,16 +37,7 @@ Websites, each with docs and a live demo: [onsystem](https://onsystem.vercel.app
 
 ### Experience
 
-| | | |
-|---|---|---|
-| **Fueled** | Lead Engineer, Web Applications | 2025 – now |
-| **Moment** | VP of Engineering | 2025 |
-| **eino.ai** | Founding Engineer | 2023 – 2025 |
-| **Superglue** | Lead Frontend Engineer | 2022 – 2023 |
-| **Sky** (Peacock) | Senior Software Engineer | 2020 – 2022 |
-| **Diligent** | Lead Frontend Engineer | 2019 – 2020 |
-| **BMW Group** | Lead Frontend Engineer | 2018 – 2019 |
-| **Deloitte** | Software Engineer | 2016 – 2018 |
+<img src="assets/experience.svg" width="100%" alt="Experience: Fueled, Lead Engineer, Web Applications, 2025 to now. Moment, VP of Engineering, 2025. eino.ai, Founding Engineer, 2023 to 2025. Superglue, Lead Frontend Engineer, 2022 to 2023. Sky (Peacock), Senior Software Engineer, 2020 to 2022. Diligent, Lead Frontend Engineer, 2019 to 2020. BMW Group, Lead Frontend Engineer, 2018 to 2019. Deloitte, Software Engineer, 2016 to 2018.">
 
 More detail on [LinkedIn](https://www.linkedin.com/in/diogo-esteves/).
 
